@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-remark-codetitle",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Adds a code title to code snippets",
   "main": "index.js",
   "scripts": {
