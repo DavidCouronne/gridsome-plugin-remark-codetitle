@@ -1,0 +1,21 @@
+{
+  "name": "gridsome-plugin-remark-codetitle",
+  "version": "0.1.0",
+  "description": "Adds a code title to code snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "markdown",
+    "remark",
+    "vuejs"
+  ],
+  "author": "David Couronné",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^2.0.0"
+  }
+}
