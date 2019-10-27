@@ -1,7 +1,7 @@
 # gridsome-plugin-remark-codetitle
  Adds a code title to code snippets
 
- ![example](https://github.com/DavidCouronne/gridsome-plugin-remark-codetitle/blob/master/snapshot.png)
+ ![example](https://github.com/DavidCouronne/gridsome-plugin-remark-codetitle/blob/master/snapshot.png?raw=true)
 
 ## Install
 
@@ -32,7 +32,7 @@ transformers: {
 ```
 
 
- ## Usage in Markdown
+## Usage in Markdown
 
 in your Markdown content
 
