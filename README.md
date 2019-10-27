@@ -3,6 +3,11 @@
 
  ![example](./snapshot.png)
 
+## Install
+
+```bash
+npm install gridsome-remark-prismjs-title --save-dev
+```
 
 ## Settings
 
