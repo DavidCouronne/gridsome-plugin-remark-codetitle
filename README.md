@@ -1,7 +1,7 @@
 # gridsome-plugin-remark-codetitle
  Adds a code title to code snippets
 
- ![example](./snapshot.png)
+ ![example](https://github.com/DavidCouronne/gridsome-plugin-remark-codetitle/blob/master/snapshot.png)
 
 ## Install
 
