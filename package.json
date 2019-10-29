@@ -17,6 +17,7 @@
   "keywords": [
     "gridsome",
     "gridsome-plugin",
+    "prismjs",
     "markdown",
     "remark",
     "vuejs"
